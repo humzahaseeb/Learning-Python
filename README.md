@@ -1,1 +1,1 @@
-# Learning-Python-and-Django
+# Learning-Python
